@@ -1,4 +1,4 @@
-# Face Recogniser(v1.0)
+# FaceRecogniserv1.0
 It is a OpenCv Face Recognising Program in Python using Kivy interface and sqlite3 for data store 
 
 Following Libraries are required for the proper working of the program:
